@@ -1,0 +1,30 @@
+# Maven / Java
+**/target/
+*.class
+*.log
+hs_err_pid*
+replay_pid*
+
+# IntelliJ IDEA
+.idea/
+*.iml
+out/
+
+# Eclipse / VS Code
+.classpath
+.project
+.settings/
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Local config / secrets
+.env
+.env.*
+!.env.example
+application-local.properties
+
+# Test reports
+**/surefire-reports/
