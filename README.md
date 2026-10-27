@@ -101,8 +101,8 @@ I created another product called Tablet and checked the PRODUCTS table in the H2
 
 ![H2 database](screenshots/h2.png)
 
-### 8. Get all products — GET
+### Get all products — GET
 
-I used GET to see the list of all products. The server returned status 200.
+I used GET to see all products. The server returned status 200.
 
 ![GET all products](screenshots/get-all.png)
